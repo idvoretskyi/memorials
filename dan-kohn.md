@@ -16,13 +16,14 @@ is bringing the spirit of open source to global health authorities.
 
 I will miss our fun conversations and plans... while I have lost a close friend, we have also lost a tireless champion for open source across the world.
 
-## Cheryl Hung
+## Ihor Dvoretskyi
 
-My last message to Dan, which he didn't see:
+I saw Dan for the first time at the keynote stage in Seattle during KubeCon'2016. These were the early days of the Kubernetes community and CNCF in general, but I was definitely impressed by the presentation made by this tall and loud gentleman.
 
-Dan, I heard the news from Jim and I’m devastated. Thank you for everything you’ve done for the open source community and for me personally. You’ve changed the world in ways that very few people have, and that impact will live on. You’ve certainly changed the trajectory of my career and thousands others, and we’ll take good care of everything you’ve worked so hard for. Thank you again and all my love to you and your family.
+A bit less than year later I've joined CNCF as a full-time staff member, and ability to work closely with Dan was one of the primary reasons why I made this decision. Despite the fact that I haven't reported to Dan directly, I felt his impact on the whole organization, on all of us, on an every single person within CNCF. He also was a kind and polite person who has helped me to steer in the woods of uncertainty at some points of my career.
 
+Dan was a truly extraordinary person, and his impact on the whole open source industry is significant. I have a strong feeling that most of us (including myself) would not be there where we are now and would not do what we are doing now if we'd not met Dan.
 
-## Łukasz Gryglicki
+Thank you, Dan.
 
-I met Dan while he was working at Spreemo, then followed him to the CNCF. He was the best boss I have ever had in my life. For the first time, I had a boss, a mentor, and a loyal friend at the same time. It was thanks to Dan that I had my first opportunity to visit the world. We met many times, practically at every KubeCon conference. We often discussed things not related to work, such as traveling. We have worked together for over five years. Dan was a wonderful man, and the news of his sudden and premature death saddened and surprised me. Rest in peace, dear friend—sincere condolences to the whole family.
+## TODO
